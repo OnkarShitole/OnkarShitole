@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Onkar Shitole and I'm from India</p>
+<p align="left">My name is Onkar Shitole and current location Pune</p>
 
 ###
 

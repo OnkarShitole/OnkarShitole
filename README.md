@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-🔭 I’m working as Data Engineer<br>
+🔭 I’m working as Database Developer<br>
 📚 I'm currently exploring Google Cloud Services<br>
 🎯 Goals: Master advanced data engineering tools & scalable cloud solutions<br>
 🎲 In my free time: I love to travel and explore new places 🌍
